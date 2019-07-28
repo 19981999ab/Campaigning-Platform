@@ -9,9 +9,9 @@ In addition, the portal would facilitate the voters to vote online on a schedule
 
 # How does it work?
 People can choose whether to vote online or offline. Those who (people who don't have Mobile/Laptops or do not have access to Internet) select offline mode will have to visit the poll booths where mobile phones would be kept. The person would select the candidate and the corresponding vote would be sent to a central database. All this would be implemented using Azure.
-  
-# A portal displaying campaigning videos and reports of a candidate’s work would be displayed on another website also using Azure. 
-How users can get started with the project?
+ A portal displaying campaigning videos and reports of a candidate’s work would be displayed on another website also using Azure. 
+
+# How users can get started with the project?
 To access the website user have to create an account using a unique authentication id. Using this account, the user will be able to access all the campaigning videos and to choose a candidate of his own on the election day.
 
 # What datasets are you using?
